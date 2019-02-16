@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @author youfeng(002934)
- * @date 2019/2/4
+ * @date 2019-02-15
  */
 public interface AdUnitRepository extends JpaRepository<AdUnit, Long> {
 

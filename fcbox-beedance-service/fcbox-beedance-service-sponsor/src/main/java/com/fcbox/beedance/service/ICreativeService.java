@@ -5,7 +5,7 @@ import com.fcbox.beedance.vo.CreativeResponse;
 
 /**
  * @author youfeng(002934)
- * @date 2019/2/9
+ * @date 2019-02-15
  */
 public interface ICreativeService {
 

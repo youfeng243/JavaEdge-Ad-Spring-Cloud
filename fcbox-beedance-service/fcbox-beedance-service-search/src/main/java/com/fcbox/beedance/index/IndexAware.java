@@ -2,7 +2,7 @@ package com.fcbox.beedance.index;
 
 /**
  * @author youfeng(002934)
- * @date 2019-02-11
+ * @date 2019-02-15
  */
 public interface IndexAware<K, V> {
 

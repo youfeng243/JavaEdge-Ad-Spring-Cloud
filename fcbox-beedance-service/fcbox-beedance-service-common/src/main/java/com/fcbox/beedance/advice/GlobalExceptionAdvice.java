@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * @author youfeng(002934)
- * @date 2019/1/31
+ * @date 2019-02-15
  */
 @RestControllerAdvice
 public class GlobalExceptionAdvice {

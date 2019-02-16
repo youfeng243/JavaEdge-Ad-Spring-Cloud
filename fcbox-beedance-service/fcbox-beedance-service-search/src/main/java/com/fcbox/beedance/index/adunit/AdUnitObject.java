@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
  * 推广单元 索引对象
  *
  * @author youfeng(002934)
- * @date 2019-02-11
+ * @date 2019-02-15
  */
 @Data
 @NoArgsConstructor

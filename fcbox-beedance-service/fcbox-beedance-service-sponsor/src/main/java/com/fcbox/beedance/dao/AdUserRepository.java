@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  * @author youfeng(002934)
- * @date 2019/2/4
+ * @date 2019-02-15
  */
 public interface AdUserRepository extends JpaRepository<AdUser, Long> {
 

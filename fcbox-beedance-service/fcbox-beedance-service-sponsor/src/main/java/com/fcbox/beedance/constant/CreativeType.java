@@ -2,7 +2,7 @@ package com.fcbox.beedance.constant;
 
 /**
  * @author youfeng(002934)
- * @date 2019/2/4
+ * @date 2019-02-15
  */
 public enum CreativeType {
 

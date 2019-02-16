@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * @author youfeng(002934)
- * @date 2019-02-11
+ * @date 2019-02-15
  */
 @FeignClient(value = "fcbox-beedance-service-sponsor",
         fallback = SponsorClientHystrix.class)

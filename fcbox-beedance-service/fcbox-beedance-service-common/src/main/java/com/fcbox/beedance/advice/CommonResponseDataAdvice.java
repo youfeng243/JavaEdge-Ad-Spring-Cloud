@@ -12,7 +12,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
  * @author youfeng(002934)
- * @date 2019/1/31
+ * @date 2019-02-15
  */
 @RestControllerAdvice
 public class CommonResponseDataAdvice implements ResponseBodyAdvice {

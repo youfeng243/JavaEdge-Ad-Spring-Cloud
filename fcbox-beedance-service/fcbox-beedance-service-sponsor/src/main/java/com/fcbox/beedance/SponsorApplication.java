@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  * @author youfeng(002934)
- * @date 2019/2/1
+ * @date 2019-02-15
  */
 @EnableFeignClients
 @EnableCircuitBreaker

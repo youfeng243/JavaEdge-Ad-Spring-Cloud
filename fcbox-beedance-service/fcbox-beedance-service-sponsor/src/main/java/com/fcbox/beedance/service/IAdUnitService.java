@@ -6,7 +6,7 @@ import com.fcbox.beedance.vo.*;
 /**
  * @author youfeng(002934)
  * @fun 推广单元接口
- * @date 2019/2/6
+ * @date 2019-02-15
  */
 public interface IAdUnitService {
 

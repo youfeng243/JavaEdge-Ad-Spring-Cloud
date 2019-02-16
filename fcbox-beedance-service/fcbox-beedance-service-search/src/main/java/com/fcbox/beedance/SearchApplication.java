@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * @author youfeng(002934)
- * @date 2019-02-11
+ * @date 2019-02-15
  */
 @EnableFeignClients
 @EnableEurekaClient
