@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.fcbox</groupId>
-    <artifactId>beedance</artifactId>
+    <groupId>com.fcbox.beedance</groupId>
+    <artifactId>fcbox-beedance</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -14,7 +14,7 @@
         <module>javaedge-ad-service</module>
     </modules>
 
-    <name>beedance</name>
+    <name>fcbox-beedance</name>
     <description>八字舞</description>
 
 
