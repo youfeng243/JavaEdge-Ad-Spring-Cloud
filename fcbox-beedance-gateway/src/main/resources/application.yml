@@ -1,0 +1,17 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: fcbox-beedance-gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://fcbox-beedance-eureka:8000/eureka/
+
+zuul:
+  prefix: /javaedge
+  routes:
+    sponsor:
+      path: /ad-sponsor/**
+      serviceId: fcbox-beedance-service-sponsor
+      strip-prefix: false
