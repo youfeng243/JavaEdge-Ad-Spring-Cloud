@@ -14,8 +14,8 @@
         <module>javaedge-ad-service</module>
     </modules>
 
-    <name>sss-ad-spring-cloud</name>
-    <description>Project For JavaEdge Ad SpringCloud</description>
+    <name>fcbox-beedance</name>
+    <description>八字舞</description>
 
 
     <parent>
