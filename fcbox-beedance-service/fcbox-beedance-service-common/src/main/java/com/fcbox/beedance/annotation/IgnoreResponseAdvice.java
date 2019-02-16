@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/1/31
  */
 @Target({ElementType.METHOD, ElementType.TYPE})

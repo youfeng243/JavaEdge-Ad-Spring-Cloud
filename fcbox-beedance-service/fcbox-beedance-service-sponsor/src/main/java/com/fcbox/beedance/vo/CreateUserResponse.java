@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * 返回给广告主的响应
  *
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/5
  */
 @Data

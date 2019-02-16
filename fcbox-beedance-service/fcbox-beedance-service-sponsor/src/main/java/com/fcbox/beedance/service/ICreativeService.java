@@ -4,7 +4,7 @@ import com.fcbox.beedance.vo.CreativeRequest;
 import com.fcbox.beedance.vo.CreativeResponse;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/9
  */
 public interface ICreativeService {

@@ -1,7 +1,7 @@
 package com.fcbox.beedance.dump;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019-02-12
  */
 public class DConstant {

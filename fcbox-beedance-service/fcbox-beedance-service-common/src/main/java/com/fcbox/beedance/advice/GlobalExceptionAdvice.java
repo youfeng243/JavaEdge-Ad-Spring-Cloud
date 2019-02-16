@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/1/31
  */
 @RestControllerAdvice

@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 推广创意
  *
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/1
  */
 @Data

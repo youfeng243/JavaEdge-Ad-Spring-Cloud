@@ -1,7 +1,7 @@
 package com.fcbox.beedance.index;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019-02-11
  */
 public interface IndexAware<K, V> {

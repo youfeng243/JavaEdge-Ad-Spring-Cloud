@@ -4,7 +4,7 @@ import com.fcbox.beedance.entity.AdUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/4
  */
 public interface AdUserRepository extends JpaRepository<AdUser, Long> {

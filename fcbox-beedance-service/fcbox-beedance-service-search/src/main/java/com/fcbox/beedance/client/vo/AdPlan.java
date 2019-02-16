@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019-02-11
  */
 @Data

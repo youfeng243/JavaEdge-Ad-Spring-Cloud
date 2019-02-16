@@ -9,7 +9,7 @@ import com.fcbox.beedance.entity.AdPlan;
 import java.util.List;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @fun 推广计划服务接口
  * @date 2019/2/6
  */

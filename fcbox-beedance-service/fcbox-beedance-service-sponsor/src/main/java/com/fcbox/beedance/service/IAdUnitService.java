@@ -4,7 +4,7 @@ import com.fcbox.beedance.exception.AdException;
 import com.fcbox.beedance.vo.*;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @fun 推广单元接口
  * @date 2019/2/6
  */

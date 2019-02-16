@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * 广告计划 索引对象
  *
- * @author sss
+ * @author youfeng(002934)
  * @date 2019-02-11
  */
 @Data

@@ -5,7 +5,7 @@ import com.fcbox.beedance.vo.CreateUserRequest;
 import com.fcbox.beedance.vo.CreateUserResponse;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/5
  */
 public interface IUserService {

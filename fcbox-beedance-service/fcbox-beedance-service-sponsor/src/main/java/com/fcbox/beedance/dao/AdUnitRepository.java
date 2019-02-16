@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/4
  */
 public interface AdUnitRepository extends JpaRepository<AdUnit, Long> {

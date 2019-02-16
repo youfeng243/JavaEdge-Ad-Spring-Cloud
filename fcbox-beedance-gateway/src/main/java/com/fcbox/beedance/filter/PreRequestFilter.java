@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.zuul.filters.support.FilterConstants;
 import org.springframework.stereotype.Component;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/1/28
  */
 @Slf4j

@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/1
  */
 @EnableFeignClients

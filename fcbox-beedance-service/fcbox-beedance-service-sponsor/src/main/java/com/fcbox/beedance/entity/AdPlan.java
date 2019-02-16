@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 推广计划
  *
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/1
  */
 @Data

@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
 /**
  * 创意与推广单元关联索引
  *
- * @author sss
+ * @author youfeng(002934)
  * @date 2019-02-12
  */
 @Slf4j

@@ -4,7 +4,7 @@ import com.fcbox.beedance.entity.unitcondition.AdUnitDistrict;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author sss
+ * @author youfeng(002934)
  * @date 2019/2/5
  */
 public interface AdUnitDistrictRepository extends JpaRepository<AdUnitDistrict, Long> {
